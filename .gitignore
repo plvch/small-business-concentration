@@ -1,3 +1,8 @@
 _*.png
 __pycache__/
 .DS_Store
+
+# social share card — kept local, not published
+build_thumb.py
+thumb.html
+assets/thumb.png
