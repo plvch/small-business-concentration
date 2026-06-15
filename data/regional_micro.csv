@@ -1,0 +1,17 @@
+geo,land,group,micro_firms,population,micro_per_1000pop,birth_rate_pc,death_rate_pc,net_growth_pc
+DE1,Baden-Württemberg,West,370845,11124642,33.34,8.47,8.32,0.16
+DE2,Bayern,West,504211,13176989,38.26,8.53,7.38,1.16
+DE3,Berlin,Berlin,151500,3677472,41.20,12.30,10.72,1.58
+DE4,Brandenburg,East,79818,2537868,31.45,7.70,8.20,-0.51
+DE5,Bremen,West,19261,676463,28.47,10.75,9.85,0.90
+DE6,Hamburg,West,79319,1853935,42.78,10.26,9.19,1.07
+DE7,Hessen,West,219284,6295017,34.83,10.08,9.14,0.94
+DE8,Mecklenburg-Vorpommern,East,47845,1611160,29.70,7.02,7.66,-0.64
+DE9,Niedersachsen,West,223264,8027031,27.81,9.41,8.49,0.92
+DEA,Nordrhein-Westfalen,West,573043,17924591,31.97,9.65,8.46,1.18
+DEB,Rheinland-Pfalz,West,127626,4106485,31.08,9.17,8.33,0.84
+DEC,Saarland,West,30375,982348,30.92,9.95,9.36,0.59
+DED,Sachsen,East,127204,4043002,31.46,7.02,7.20,-0.18
+DEE,Sachsen-Anhalt,East,55346,2169253,25.51,6.86,7.57,-0.71
+DEF,Schleswig-Holstein,West,98091,2922005,33.57,8.35,8.46,-0.11
+DEG,Thüringen,East,61260,2108863,29.05,5.45,6.81,-1.35
