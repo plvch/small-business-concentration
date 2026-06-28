@@ -223,7 +223,7 @@ ENDMATTER = '''<aside class="end-matter col-wide" aria-label="About and contact"
 </aside>'''
 
 FOOT = '''<footer class="essay-foot col-wide">
-  <div>© 2026 plvch · all rights reserved</div>
+  <div>© 2026 plvch · <a href="/legal/#impressum">Impressum</a> · <a href="/legal/#datenschutz">Datenschutz</a></div>
   <div>Research note · It's rational to ignore small business</div>
   <div>01 / 01</div>
 </footer>'''
